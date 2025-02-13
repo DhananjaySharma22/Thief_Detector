@@ -31,6 +31,6 @@ This is a fun and practical machine learning project designed to detect theft us
 - Integrating an alert system for real-time notifications.
 - Implementing multi-camera support for wider coverage.
 
-This project is a great way to explore AI-powered security systems. Have fun building your own theft detection tool! 🕵️‍♂️
+This project is a great way to explore AI-powered security systems.🕵️‍♂️
 
 
